@@ -4,9 +4,9 @@
 
 Die Webanwendung stellt einen Prototypen dar, der auf einem Rechner mithilfe von Node.js installiert und gestartet werden kann.
 
+![Screenshot der Anwendung](Webseite-Chatbot-InterProf-Engel/public/images/Student1.png)
 
 Achtung: Bis auf einen einfachen Admin-Login sind keine Maßnahmen der IT-Sicherheit implementiert!
-
 <br/>
   
 ## Allgemein: 
@@ -215,3 +215,7 @@ Es empfiehlt sich, eine zentrale, einfach editierbare Textdatei pro Patientenfal
 
 Insgesamt ist weder eine technische Komplexität noch eine aufwendige Formatierung der Daten erforderlich, um eine qualitativ hochwertige Simulation zu ermöglichen. Stattdessen ist eine saubere, textbasierte, logisch gegliederte und vollständige Informationsbasis am sinnvollsten. Diese Vorgehensweise erleichtert nicht nur die Arbeit mit dem Prototypen, sondern bildet auch eine nachhaltige Grundlage für zukünftige Erweiterungen und Verbesserungen des Systems.
 
+## Vorschau
+
+![Screenshot der Anwendung](Webseite-Chatbot-InterProf-Engel/public/images/Chatbox.png)
+![Screenshot der Anwendung](Webseite-Chatbot-InterProf-Engel/public/images/Admin1.png)
